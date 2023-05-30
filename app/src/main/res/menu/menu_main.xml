@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/engTrans"
+        android:orderInCategory="100"
+        android:title="@string/engTrans" />
+    <item
+        android:id="@+id/chiTrans"
+        android:orderInCategory="101"
+        android:title="@string/chiTrans" />
+</menu>
